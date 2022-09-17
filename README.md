@@ -65,3 +65,8 @@ const routers = new Router({
 
 module.exports = routers
 ```
+
+
+#### To-Dos
+
+- Refactor clone on router.js and forEach on route.js to remove lodash dependency
